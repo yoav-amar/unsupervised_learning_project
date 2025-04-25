@@ -1,8 +1,9 @@
 which graphs we want:
   wire matrix sub plot:
-    - k-prototype - elbow (yoav)
-    - k-prototype (may for the other dude)- elbow (yoav)
-    - dbscan yoav_matrix - hitmap of epsilon, min_samples of score with -1- (yoav)
+    - k-prototype - elbow (yoav) - result done ✅
+    - k-prototype (may for the other dude)- elbow (yoav) I don't think it is a must, 
+      we can add it if we want another quater of a page ❄️
+    - dbscan yoav_matrix - hitmap of epsilon, min_samples of score with -1- (yoav) ✅ 
     - same for spectral
     - same for gmm
     - same for hdbscan
