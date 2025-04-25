@@ -1,0 +1,22 @@
+which graphs we want:
+  wire matrix sub plot:
+    - k-prototype - elbow (yoav)
+    - k-prototype (may for the other dude)- elbow (yoav)
+    - dbscan yoav_matrix - hitmap of epsilon, min_samples of score with -1- (yoav)
+    - same for spectral
+    - same for gmm
+    - same for hdbscan
+
+  for each algoritm (kmeans, gmm, dbscan, hdbscan, spectral, fuzzy cmeans):
+  - plot of score (Y) to dimention reduction method. (like figure 2 of oshreit)
+
+  2 tables for statistical tests:
+    - pass
+  
+
+  best clustring algorithm:
+  - Silhouette for **all** algorithms (like figure 2 of oshreit)
+  - MI for all (?)
+
+  TSNE of best:
+  - maybe one maybe more
